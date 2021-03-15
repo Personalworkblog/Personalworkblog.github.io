@@ -3,11 +3,11 @@
   <title>WorkBlog</title>
   
   <subtitle>WorkBlog</subtitle>
-  <link href="http://hk.ayilian.club/atom.xml" rel="self"/>
+  <link href="https://www.workblog.tk/atom.xml" rel="self"/>
   
-  <link href="http://hk.ayilian.club/"/>
-  <updated>2021-03-15T02:44:18.000Z</updated>
-  <id>http://hk.ayilian.club/</id>
+  <link href="https://www.workblog.tk/"/>
+  <updated>2021-03-15T09:43:04.172Z</updated>
+  <id>https://www.workblog.tk/</id>
   
   <author>
     <name>bosco</name>
@@ -17,53 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>开启文章目录</title>
-    <link href="http://hk.ayilian.club/2021/0314/abc.html"/>
-    <id>http://hk.ayilian.club/2021/0314/abc.html</id>
-    <published>2021-03-14T09:44:18.000Z</published>
-    <updated>2021-03-15T02:44:18.000Z</updated>
+    <title>如何判断VPS线路质量</title>
+    <link href="https://www.workblog.tk/2021/0315/cn2.html"/>
+    <id>https://www.workblog.tk/2021/0315/cn2.html</id>
+    <published>2021-03-15T08:08:41.956Z</published>
+    <updated>2021-03-15T09:43:04.172Z</updated>
     
-    <content type="html"><![CDATA[<p>文章描述测试<span id="more"></span><br />Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><div class="article-entry marked-body" itemprop="articleBody"><blockquote><p><font size=5><b>Hexo博客搭建</b></font><br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-setup-deploy.html">Hexo博客搭建(1)——建站及部署</a>，环境搭建并部署至Github。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-configuration.html">Hexo博客搭建(2)——主题配置</a>，针对<code>pure</code>主题进行个性化配置。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-optimization.html">Hexo博客搭建(3)——优化评论系统</a>，主要对<code>Valine</code>评论系统进行优化。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-troubleshooting.html">Hexo博客搭建(4)——常见问题</a>，修复了<code>pure</code>主题的系列小bug。<br><strong>文章作者：</strong><a href="https://hwame.top">鴻塵</a></p></blockquote></div><blockquote><p><font size=5><b>Hexo博客搭建</b></font><br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-setup-deploy.html">Hexo博客搭建(1)——建站及部署</a>，环境搭建并部署至Github。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-configuration.html">Hexo博客搭建(2)——主题配置</a>，针对<code>pure</code>主题进行个性化配置。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-optimization.html">Hexo博客搭建(3)——优化评论系统</a>，主要对<code>Valine</code>评论系统进行优化。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-troubleshooting.html">Hexo博客搭建(4)——常见问题</a>，修复了<code>pure</code>主题的系列小bug。<br><strong>文章作者：</strong><a href="https://hwame.top">鴻塵</a></p></blockquote><h1 id="第一级目录"><a class="markdownIt-Anchor" href="#第一级目录"></a> 第一级目录</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">good</span><br></pre></td></tr></table></figure><h1 id="第二级别目录"><a class="markdownIt-Anchor" href="#第二级别目录"></a> 第二级别目录</h1><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;文章描述测试</summary>
-    
-    
-    
-    <category term="Linux" scheme="http://hk.ayilian.club/categories/Linux/"/>
-    
-    
-    <category term="Linxu" scheme="http://hk.ayilian.club/tags/Linxu/"/>
-    
-    <category term="Windows" scheme="http://hk.ayilian.club/tags/Windows/"/>
-    
-    <category term="MySQL" scheme="http://hk.ayilian.club/tags/MySQL/"/>
-    
-    <category term="MSSQL" scheme="http://hk.ayilian.club/tags/MSSQL/"/>
-    
-    <category term="VPS" scheme="http://hk.ayilian.club/tags/VPS/"/>
-    
-    <category term="自动化运维" scheme="http://hk.ayilian.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://hk.ayilian.club/2021/0312/hello-world.html"/>
-    <id>http://hk.ayilian.club/2021/0312/hello-world.html</id>
-    <published>2021-03-12T03:07:09.584Z</published>
-    <updated>2021-03-12T03:07:09.585Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><strong><span style="font-size:16px;">如何判断VPS线路质量</span></strong></br>01.什么是CN2线路</br>02.如何检测线路质量</blockquote><h1 id="什么是cn2线路"><a class="markdownIt-Anchor" href="#什么是cn2线路"></a> 什么是CN2线路</h1><p><strong>CN2:</strong>全称为中国电信下一代承载网，英文Chinatelecom Next Carrier Network。CN2线路分为<em><span style="color:#E53333;"><strong>CN2 GT</strong></span></em>和<em><span style="color:#E53333;"><strong>CN2 GIA</strong></span></em>，而相对普通163网络,具有互通互访、综合性能好等优势 。</br></p><p><strong>CN2 GT:</strong>CN2里属于Global Transit的产品(又名GIS-Global Internet Service)，在CN2里等级低，省级/出国节点为202.97开头，国际骨干节点有2～4个59.43开头的CN2节点。在出国线路上拥堵程度一般，相对于163骨干网的稍强，相比CN2 GIA，性价比也较高。</br></p><p><strong>CN2 GIA:</strong>CN2里属于Global Internet Access的产品，等级最高，省级/出国/国际骨干节点都以59.43开头，全程没有202.97开头的节点。在出国线路上表现最好，很少拥堵，理论上速度最快最稳定，当然，价格也相对CN2 GT偏高。</p><h1 id="如何检测线路质量"><a class="markdownIt-Anchor" href="#如何检测线路质量"></a> 如何检测线路质量</h1><p><span style="color:#E53333;"><strong>线路质量:</strong></span>去程质量和回程质量.<br />什么是去程？去程就是你本地到VPS的路由。<br />什么是回程？与之相对，回程自然就是VPS到你本地的路由。</p><p><span style="color:#E53333;"><strong>去程检测:</strong></span>可通过BestTrace工具,方便直观检测本地到VPS的去程连接质量,客户端下载地址如下.<br />Windows:<span style="background-color:#FFFFFF;"><a href="https://cdn.ipip.net/17mon/besttrace.exe">下载</a></span><br />Linux:<span style="background-color:#FFFFFF;"><a href="https://cdn.ipip.net/17mon/besttrace4linux.zip">下载</a></span><br />MacOS:<span style="background-color:#FFFFFF;"><a href="https://itunes.apple.com/us/app/best-trace/id1037779758?l=zh&ls=1&mt=12">下载</a></span></p><p><span style="color:#E53333;"><strong>回程检测:</strong></span>回程测试主要针对Linux平台,可通过以下程序查看VPS到指定节点的线路情况.</p><p>Ubuntu/Debian：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">apt install -y wget zip</span><br><span class="line">wget https://cdn.ipip.net/17mon/besttrace4linux.zip</span><br><span class="line">unzip besttrace*</span><br><span class="line">chmod +x besttrace</span><br><span class="line">./besttrace 119.6.6.6</span><br></pre></td></tr></table></figure><p>CentOS：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">yum -y install wget zip</span><br><span class="line">wget https://cdn.ipip.net/17mon/besttrace4linux.zip</span><br><span class="line">unzip besttrace*</span><br><span class="line">chmod +x besttrace</span><br><span class="line">./besttrace 119.6.6.6</span><br></pre></td></tr></table></figure>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;blockquote&gt;
+&lt;strong&gt;&lt;span style=&quot;font-size:16px;&quot;&gt;如何判断VPS线路质量&lt;/span&gt;&lt;/strong&gt;&lt;/br&gt;
+01.什么是CN2线路&lt;/br&gt;
+02.如何检测线路质量
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;什么是cn</summary>
       
     
     
     
+    <category term="VPS" scheme="https://www.workblog.tk/categories/VPS/"/>
+    
+    
+    <category term="Linxu" scheme="https://www.workblog.tk/tags/Linxu/"/>
+    
+    <category term="Windows" scheme="https://www.workblog.tk/tags/Windows/"/>
+    
+    <category term="VPS" scheme="https://www.workblog.tk/tags/VPS/"/>
+    
+    <category term="网络" scheme="https://www.workblog.tk/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
