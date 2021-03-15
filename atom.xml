@@ -3,11 +3,11 @@
   <title>WorkBlog</title>
   
   <subtitle>WorkBlog</subtitle>
-  <link href="https://www.workblog.tk/atom.xml" rel="self"/>
+  <link href="https://workblog.tk/atom.xml" rel="self"/>
   
-  <link href="https://www.workblog.tk/"/>
+  <link href="https://workblog.tk/"/>
   <updated>2021-03-15T16:14:34.082Z</updated>
-  <id>https://www.workblog.tk/</id>
+  <id>https://workblog.tk/</id>
   
   <author>
     <name>bosco</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>如何判断VPS线路质量</title>
-    <link href="https://www.workblog.tk/2021/03/15/cn2/"/>
-    <id>https://www.workblog.tk/2021/03/15/cn2/</id>
+    <link href="https://workblog.tk/2021/03/15/cn2/"/>
+    <id>https://workblog.tk/2021/03/15/cn2/</id>
     <published>2021-03-15T08:08:41.956Z</published>
     <updated>2021-03-15T16:14:34.082Z</updated>
     
@@ -38,16 +38,16 @@
     
     
     
-    <category term="VPS" scheme="https://www.workblog.tk/categories/VPS/"/>
+    <category term="VPS" scheme="https://workblog.tk/categories/VPS/"/>
     
     
-    <category term="Linxu" scheme="https://www.workblog.tk/tags/Linxu/"/>
+    <category term="Linxu" scheme="https://workblog.tk/tags/Linxu/"/>
     
-    <category term="Windows" scheme="https://www.workblog.tk/tags/Windows/"/>
+    <category term="Windows" scheme="https://workblog.tk/tags/Windows/"/>
     
-    <category term="VPS" scheme="https://www.workblog.tk/tags/VPS/"/>
+    <category term="VPS" scheme="https://workblog.tk/tags/VPS/"/>
     
-    <category term="网络" scheme="https://www.workblog.tk/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://workblog.tk/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
