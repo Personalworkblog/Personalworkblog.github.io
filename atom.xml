@@ -6,7 +6,7 @@
   <link href="http://hk.ayilian.club/atom.xml" rel="self"/>
   
   <link href="http://hk.ayilian.club/"/>
-  <updated>2021-03-15T03:59:05.309Z</updated>
+  <updated>2021-03-15T02:44:18.000Z</updated>
   <id>http://hk.ayilian.club/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>开启文章目录</title>
-    <link href="http://hk.ayilian.club/2021/0312/abc.html"/>
-    <id>http://hk.ayilian.club/2021/0312/abc.html</id>
-    <published>2021-03-12T07:53:57.838Z</published>
-    <updated>2021-03-15T03:59:05.309Z</updated>
+    <link href="http://hk.ayilian.club/2021/0314/abc.html"/>
+    <id>http://hk.ayilian.club/2021/0314/abc.html</id>
+    <published>2021-03-14T09:44:18.000Z</published>
+    <updated>2021-03-15T02:44:18.000Z</updated>
     
-    <content type="html"><![CDATA[<p>文章描述测试<span id="more"></span><br />Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h1>第一级目录</h1><h2>第二级别目录</h2>]]></content>
+    <content type="html"><![CDATA[<p>文章描述测试<span id="more"></span><br />Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><div class="article-entry marked-body" itemprop="articleBody"><blockquote><p><font size=5><b>Hexo博客搭建</b></font><br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-setup-deploy.html">Hexo博客搭建(1)——建站及部署</a>，环境搭建并部署至Github。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-configuration.html">Hexo博客搭建(2)——主题配置</a>，针对<code>pure</code>主题进行个性化配置。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-optimization.html">Hexo博客搭建(3)——优化评论系统</a>，主要对<code>Valine</code>评论系统进行优化。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-troubleshooting.html">Hexo博客搭建(4)——常见问题</a>，修复了<code>pure</code>主题的系列小bug。<br><strong>文章作者：</strong><a href="https://hwame.top">鴻塵</a></p></blockquote></div><blockquote><p><font size=5><b>Hexo博客搭建</b></font><br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-setup-deploy.html">Hexo博客搭建(1)——建站及部署</a>，环境搭建并部署至Github。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-configuration.html">Hexo博客搭建(2)——主题配置</a>，针对<code>pure</code>主题进行个性化配置。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-optimization.html">Hexo博客搭建(3)——优化评论系统</a>，主要对<code>Valine</code>评论系统进行优化。<br><strong>博客系列：</strong><a href="https://hwame.top/20200520/hello-hexo-troubleshooting.html">Hexo博客搭建(4)——常见问题</a>，修复了<code>pure</code>主题的系列小bug。<br><strong>文章作者：</strong><a href="https://hwame.top">鴻塵</a></p></blockquote><h1 id="第一级目录"><a class="markdownIt-Anchor" href="#第一级目录"></a> 第一级目录</h1><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">good</span><br></pre></td></tr></table></figure><h1 id="第二级别目录"><a class="markdownIt-Anchor" href="#第二级别目录"></a> 第二级别目录</h1><h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2><h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;文章描述测试</summary>
@@ -33,9 +33,17 @@
     <category term="Linux" scheme="http://hk.ayilian.club/categories/Linux/"/>
     
     
-    <category term="算法" scheme="http://hk.ayilian.club/tags/%E7%AE%97%E6%B3%95/"/>
+    <category term="Linxu" scheme="http://hk.ayilian.club/tags/Linxu/"/>
     
-    <category term="最大存水量" scheme="http://hk.ayilian.club/tags/%E6%9C%80%E5%A4%A7%E5%AD%98%E6%B0%B4%E9%87%8F/"/>
+    <category term="Windows" scheme="http://hk.ayilian.club/tags/Windows/"/>
+    
+    <category term="MySQL" scheme="http://hk.ayilian.club/tags/MySQL/"/>
+    
+    <category term="MSSQL" scheme="http://hk.ayilian.club/tags/MSSQL/"/>
+    
+    <category term="VPS" scheme="http://hk.ayilian.club/tags/VPS/"/>
+    
+    <category term="自动化运维" scheme="http://hk.ayilian.club/tags/%E8%87%AA%E5%8A%A8%E5%8C%96%E8%BF%90%E7%BB%B4/"/>
     
   </entry>
   
